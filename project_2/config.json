@@ -1,0 +1,7 @@
+{
+	"dbname": "skillfactory",
+	"user": "skillfactory",
+	"host": "sfhost",
+	"password": "sfpwd",
+	"port": 5432
+}

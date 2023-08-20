@@ -1,0 +1,5 @@
+dbname = skillfactory
+user = skillfactory
+host = 84.201.134.129
+password = cCkxxLVrDE8EbvjueeMedPKt
+port = 5432
