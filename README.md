@@ -1,2 +1,7 @@
-# sf_tutorials
-Materials for SkillFactory students
+# python_tutorials
+
+Примеры и заметки по основам Python.
+
+## Содержание
+
+- логические конструкции и условия
